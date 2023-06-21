@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+button {
+  margin-top: 0.5em;
+}
+
+.mysideNav {
+  background-color: #88038a !important;
+  font-family: Cambria, serif;
+}
+
+body{
+  font-family: 'Lora', serif;
+}
+
+.result {
+  font-family: 'Crimson Text', serif;
+}
