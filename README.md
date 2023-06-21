@@ -1,4 +1,4 @@
-# A vote system blockchain based
+# Blockchain voting system with solidity and react
 ### Worked by: Sara Martiri, Kevin Tenolli
 #### COMPUTER ENGINEERING, EPOKA UNIVERSITY
 
